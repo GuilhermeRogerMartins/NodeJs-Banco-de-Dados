@@ -13,33 +13,3 @@ route.get('/contato', contatoController.paginaInicial);
 
 module.exports = route;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//// Somente um exemplo de modo de fazer a pagina.
-// function meMiddleware(req, res, next) {
-//     req.session = { nome: 'Gui', sobrenome: 'Roger' };
-//     console.log();
-//     console.log('passei aqui....... ');
-//     console.log();
-//     next();
-// }
