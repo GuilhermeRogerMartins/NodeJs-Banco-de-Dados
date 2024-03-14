@@ -12,10 +12,3 @@ exports.trataPost = (req, res) => {
     return;
 };
 
-
-
-
-
-
-
-
